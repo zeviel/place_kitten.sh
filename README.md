@@ -3,6 +3,6 @@ Web-API for [placekitten.com](https://placekitten.com) an quick and simple servi
 
 ## Example
 ```bash
-source place_kitten.sh
+source ./place_kitten.sh
 get_random_kitten
 ```
